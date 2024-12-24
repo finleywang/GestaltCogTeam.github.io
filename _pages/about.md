@@ -40,7 +40,7 @@ Academic Services
 
 <br>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI"></script>
+<a href="https://clustrmaps.com/site/1c3fi"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI&cl=ffffff" /></a>
 
 <br>
 
