@@ -14,12 +14,13 @@ Before that, I received my PhD degree from the ICT，CAS under the supervision o
 
 News
 ------
+<div style="text-align: justify;">
 * 2024/10/16 One paper about [BasicTS+](https://github.com/GestaltCogTeam/BasicTS) is accepted by TKDE，congrats to Zezhi's longtime effort!
 * 2024/08/22 A high-quality review on the theme of "AI for Geoscience," with Phd. Fei Wang as a co-first author, is officially published online by
  [The Innovation](https://www.cell.com/the-innovation/home)
 * 2024/07/05 Dr. Fei Wang is awarded the Best Paper Award by [The Innovation](https://www.cell.com/the-innovation/home)!
 * 2023/12/01 One paper about trajectory domain generalization is accepted by ICDE, congrats to Tangwen!
-  
+</div>
 
 Hornors and Awards
 ------
