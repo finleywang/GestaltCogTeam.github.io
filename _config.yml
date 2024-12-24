@@ -28,15 +28,15 @@ author:
   location         : "Beijing，China"
   employer         : "ICT, CAS"
   uri              : # URL
-  email            : "wangfei at ict.ac.cn" 
+  email            : "wangfei@ict.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?user=MuEc_JEAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Fei-Wang-144"
   scopus           : # URL
 
@@ -251,7 +251,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: mentoring
     values:
       layout: single
       author_profile: true
