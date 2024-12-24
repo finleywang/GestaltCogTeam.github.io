@@ -9,18 +9,17 @@ redirect_from:
 ---
 
 I am now an associate researcher at the [Institute of Computing Technology (ICT)](http://www.ict.cas.cn/), Chinese Academy of Sciences (CAS). 
-Before that, I received my PhD degree from the ICT，CAS under the supervision of [Prof. Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html) in July 2017. My major research interests are in Spatial-temporal Data Mining and AI System Understanding.
+Before that, I received my PhD degree from the ICT，CAS under the supervision of [Prof. Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html) in July 2017. 
+My major research interests are in Spatial-temporal Data Mining, Time Series Analysis and AI for Science.
 
 
 News
 ------
-<div style="text-align: justify;">
 * 2024/10/16 One paper about [BasicTS+](https://github.com/GestaltCogTeam/BasicTS) is accepted by TKDE，congrats to Zezhi's longtime effort!
 * 2024/08/22 A high-quality review on the theme of "AI for Geoscience," with Phd. Fei Wang as a co-first author, is officially published online by
  [The Innovation](https://www.cell.com/the-innovation/home)
 * 2024/07/05 Dr. Fei Wang is awarded the Best Paper Award by [The Innovation](https://www.cell.com/the-innovation/home)!
 * 2023/12/01 One paper about trajectory domain generalization is accepted by ICDE, congrats to Tangwen!
-</div>
 
 Hornors and Awards
 ------
