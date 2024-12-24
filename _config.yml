@@ -220,12 +220,12 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  mentoring:
+  teaching:
     output: true
     permalink: /:collection/:path/
-  #talks:
-    #output: true
-    #permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -251,7 +251,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: mentoring
+      type: teaching
     values:
       layout: single
       author_profile: true
