@@ -16,7 +16,7 @@ My major research interests are in Spatial-temporal Data Mining, Time Series Ana
 News
 ------
 * 2024/10/16 One paper about [BasicTS+](https://github.com/GestaltCogTeam/BasicTS) is accepted by TKDE，congrats to Zezhi's longtime effort!
-* 2024/08/22 A high-quality review on the theme of "AI for Geoscience," with Phd. Fei Wang as a co-first author, is officially published online by
+* 2024/08/22 One high-quality review on the theme of "AI for Geoscience," with Dr. Fei Wang as a co-first author, is published by
  [The Innovation](https://www.cell.com/the-innovation/home)
 * 2024/07/05 Dr. Fei Wang is awarded the Best Paper Award by [The Innovation](https://www.cell.com/the-innovation/home)!
 * 2023/12/01 One paper about trajectory domain generalization is accepted by ICDE, congrats to Tangwen!
@@ -24,7 +24,7 @@ News
 Hornors and Awards
 ------
 * 2024, [The Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
-* 2024, Most Liked Poster Award, The 2nd Research Summit of Urban Sciences and Human Dynamics
+* 2024, Most Liked Poster Award, Research Summit of Urban Sciences and Human Dynamics
 * 2022, Youth Innovation Promotion Association of CAS
 * 2022，DASFAA Best Student Paper (DASFAA 2022)
 
