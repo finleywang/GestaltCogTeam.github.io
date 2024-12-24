@@ -12,7 +12,7 @@ title                    : "Fei Wang / ICT,CAS"
 title_separator          : "-"
 name                     : &name "Fei Wang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://finleywang.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "finleywang/finleywang.github.io"
 
