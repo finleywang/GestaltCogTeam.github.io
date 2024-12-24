@@ -79,10 +79,14 @@ publication_category:
   #books:
     #title: 'Books'
   
-  conferences:
-    title: 'Conference Papers'
-  manuscripts:
-    title: 'Journal Articles'  
+  publicationin2024:
+    title: 'In Year 2024'
+    
+  publicationin2023:
+    title: 'In Year 2023'
+  
+  publicationin2022:
+    title: 'In Year 2022'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
