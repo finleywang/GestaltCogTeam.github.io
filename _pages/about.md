@@ -12,13 +12,16 @@ I am now an associate researcher at the [Institute of Computing Technology (ICT)
 Before that, I received my PhD degree from the ICT，CAS under the supervision of [Prof. Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html) in July 2017. My major research interests are in Spatial-temporal Data Mining and AI System Understanding.
 
 
-Activities
+News
 ------
-* Test Activity
+* 2024/10/16 One paper about [BasicTS+](https://github.com/GestaltCogTeam/BasicTS) is accepted by TKDE，congrats to Zezhi's longtime effort!
+* 2024/07/05 Dr. Fei Wang is awarded by The Innovation with Best Paper Award for a AI4S review!
+* 2023/12/01 One paper about trajectory domain generalization is accepted by ICDE, congrats to Tangwen!
+  
 
 Hornors and Awards
 ------
-* 2024, The Innovation [(A cell press partner journal)](https://www.cell.com/the-innovation/home) Best Paper Award
+* 2024, The [Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
 * 2024, Most Liked Poster Award, The 2nd Research Summit of Urban Sciences and Human Dynamics
 * 2022, Youth Innovation Promotion Association of CAS
 * 2022，DASFAA Best Student Paper (DASFAA 2022)
