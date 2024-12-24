@@ -21,7 +21,7 @@ repository               : "finleywang/finleywang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-wf.jpg"
   name             : "Fei Wang"
   pronouns         : # example: "she/her"  
   bio              : "Researcher focusing on Spatial Temporal Data Mining"
