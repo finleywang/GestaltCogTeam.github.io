@@ -40,6 +40,9 @@ Academic Services
 
 <br>
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI"></script>
+
+<br>
 
 <!-- hitwebcounter Code START -->
 The <a href="https://www.hitwebcounter.com" target="_blank">
