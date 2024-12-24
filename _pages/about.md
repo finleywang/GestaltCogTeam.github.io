@@ -18,7 +18,7 @@ Activities
 
 Hornors and Awards
 ------
-* 2024, The Innovation [link](https://www.cell.com/the-innovation/home) Best Paper Award
+* 2024, The Innovation [(A cell press partner journal)](https://www.cell.com/the-innovation/home) Best Paper Award
 * 2024, Most Liked Poster Award, The 2nd Research Summit of Urban Sciences and Human Dynamics
 * 2022, Youth Innovation Promotion Association of CAS
 * 2022，DASFAA Best Student Paper (DASFAA 2022)
