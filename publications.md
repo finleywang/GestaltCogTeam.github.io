@@ -13,6 +13,15 @@ IN YEAR 2024
 
 
 <li>Chengqing Yu,<b>Fei Wang*</b>, Zezhi Shao, Tangwen Qian, Zhao Zhang, Wei Wei, Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2024_KDD_GinAR.pdf'>“Ginar: An end-to-end multivariate time series forecasting model suitable for variable missing”</a>, <i>ACM SIGKDD conference on knowledge discovery and data mining（KDD）</i>, pp.3989-4000, Barcelona, Spain, Aug.25-29, 2024. </li>
+
+
+<li>Tangwen Qian, Yile Chen, Gao Cong, Yongjun Xu, <b>Fei Wang*</b>. <a target='new' href='http://finleywang.github.io/files/2024_ICDE_AdapTraj.pdf'>“AdapTraj: A Multi-Source Domain Generalization Framework for Multi-Agent Trajectory Prediction”</a>, <i>IEEE International Conference on Data Engineering (ICDE)</i>, pp. 5048-5060, Utrecht, Netherlands, May 13-17, 2024. </li>
+
+<li> Yujie Li, Zezhi Shao, Yongjun Xu, Qiang Qiu, Zhaogang Cao, <b>Fei Wang*</b>. <a target='new' href='http://finleywang.github.io/files/2023_ICASSP_Dynamic_Frequency_Domain_Graph_Convolutional_Network_for_Traffic_Forecasting.pdf'>“Dynamic Frequency Domain Graph Convolutional Network for Traffic Forecasting”</a>, <i>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>, pp. 5245-5249, Seoul, Korea, Apr.14-19,2024. </li>
+
+<li>Weilun Feng, Chuanguang Yang*, Zhulin An*, Libo Huang, Boyu Diao, <b>Fei Wang</b>, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2024_MM_RDD.pdf'>“Relational Diffusion Distillation for Efficient Image Generation”</a>, <i>ACM International Conference on Multimedia (MM)</i>, pp.205-213, Melbourne, VIC, Australia, Oct.28-Nov.01, 2024. </li>
+
+
  </ul>
 
 IN YEAR 2023
