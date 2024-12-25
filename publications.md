@@ -27,7 +27,13 @@ IN YEAR 2024
 IN YEAR 2023
 ------
 <ul>
+ 
 <li><b>Fei Wang*</b>, Di Yao, Yong Li, Tao Sun, Zhao Zhang. <a target='new' href='http://finleywang.github.io/files/2022_Innovation_AI urban computing.pdf'>“AI-enhanced spatial-temporal data-mining technology: New chance for next-generation urban computing”</a>, <i>The Innovation,</i> Vol.04, No.02, 100405, Mar. 2023.    </li>
+
+<li>Chengqing Yu, <b>Fei Wang*</b>, Zezhi Shao, Tao Sun, Lin Wu, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_CIKM_DSFormer.pdf'>“DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction”, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, pp.3062-3072, Birmingham, United Kingdom, Oct.21-25, 2023. </li>
+
+<li>Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, Zhulin An*, <b>Fei Wang</b>, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_SIGIR.pdf'>“Weighted Knowledge Graph Embedding”, <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, pp. 867-877, Taipei, Taiwan, Jul.23-27, USA, 2023. </li>
+
 </ul>
 
 
@@ -40,6 +46,14 @@ IN YEAR 2022
 <li>Zezhi Shao, Zhao Zhang, <b>Fei Wang*</b>, Wei Wei, and Yongjun Xu.  <a target='new' href='http://finleywang.github.io/files/2022_CIKM_STID.pdf'>“Spatial-Temporal Identity: A Simple yet Effective Baseline for Multivariate Time Series Forecasting”</a>. <i>ACM International Conference on Information & Knowledge Management (CIKM)</i>, pp.4454-4458, Atlanta, GA, USA, Oct.17-21, 2022. </li>
 
 <li>Zezhi Shao, Zhao Zhang, Wei Wei,  <b>Fei Wang*</b>, Yongjun Xu, Xin Cao, and Christian S. Jensen. <a target='new' href='http://finleywang.github.io/files/2022_VLDB_D2STGNN.pdf'>“Decoupled dynamic spatial-temporal graph neural network for traffic forecasting”</a>, <i>Proc. VLDB Endow. (VLDB)</i>, Vol.15, No.11, pp. 2733-2746, Jul. 2022. (Regular Paper) </li>
+
+<li>Zezhi Shao, Yongjun Xu, Wei Wei, <b>Fei Wang*</b>, Zhao Zhang, Feida Zhu. <a target='new' href='http://finleywang.github.io/files/2022_TKDE_Heterogeneous_Graph_Neural_Network_With_Multi-View_Representation_Learning.pdf'>“Heterogeneous graph neural network with multi-view representation learning”</a>, <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, pp. 11476-11488, Vol.35, No.11, Nov. 2022. (Regular Paper)</li>
+
+<li> Tangwen Qian, Yongjun Xu, Zhao Zhang, and <b>Fei Wang*</b>. <a target='new' href='[http://finleywang.github.io/files/2022_ACMMM_Trajectory Prediction from Hierarchical Perspective.pdf](http://finleywang.github.io/files/2022_ACMMM_Trajectory)'>“Trajectory Prediction from Hierarchical Perspective”</a>, <i>ACM International Conference on Multimedia (MM)</i>, pp. 6822-6830, Lisboa, Portugal, Oct.10-14, 2022. </li>
+
+<li>Shuo Liang, Wei Wei*, Xian-Ling Mao, <b>Fei Wang</b>, Zhiyong He. <a target='new' href='http://finleywang.github.io/files/2022_findings-acl_BiSyn-GAT+.pdf'>“BiSyn-GAT+: Bi-syntax aware graph attention network for aspect-based sentiment analysis”</a>, <i>Findings of the Association for Computational Linguistics: ACL 2022 (ACL Findings)</i>, pp. 1835-1848, Dublin, Ireland, May 22-27, 2022. </li>
+
+<li>Tao Sun, <b>Fei Wang</b>, Zhao Zhang, Lin Wu, and Yongjun Xu*. <a target='new' href='[http://finleywang.github.io/files/2022_DASFAA_Trajectory Representation Learning.pdf](http://finleywang.github.io/files/2022_DASFAA_Trajectory)'>“Human Mobility Identification by Deep Behavior Relevant Location Representation”</a>, In <i>Database Systems for Advanced Applications (DASFAA)</i>, pp. 439–454, Berlin, Heidelberg, Apr.11-14, 2022. </li>
 
 </ul>
 
