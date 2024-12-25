@@ -58,6 +58,9 @@ IN YEAR 2023
 <li>Qing Wang, Cong Dong, Shijie Jian, Dan Du, Zhigang Lu, Yinhao Qi, Dongxu Han, Xiaobo Ma, <b>Fei Wang</b>, Yuling Liu. <a target='new' href='http://finleywang.github.io/files/2023_Computer&Security.pdf'>“HANDOM: Heterogeneous attention network model for malicious domain detection”</a>, <i>Computers & Security</i>, Vol.125, 103059, Feb. 2023.</li>
 
 <li>Yongjun Xu, <b>Fei Wang</b>, Zhulin An, Qi Wang, Zhao Zhang*. <a target='new' href='[http://finleywang.github.io/files/2023_Innovation_AI for Science.pdf](http://finleywang.github.io/files/2023_Innovation_AI)'>“Artificial intelligence for science—bridging data to wisdom”</a>, <i>The Innovation</i>, Vol.04, No.06, 100525, Nov. 2023. </li>
+
+<li>Qi Wang*, Tingting Li, Yongjun Xu, <b>Fei Wang</b>, Boyu Diao, Lei Zheng, Jincai Huang.<a target='new' href='http://finleywang.github.io/files/2023_Innovation_Intelligent unmanned swarms.pdf'> “How to prevent malicious use of intelligent unmanned swarms?”</a>, <i>The Innovation</i>, Vol.04, No.02, 100396, Mar. 2023. </li>
+
 </ul>
 
 
