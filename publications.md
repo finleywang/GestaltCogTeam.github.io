@@ -21,7 +21,9 @@ IN YEAR 2025
 IN YEAR 2024
 ------
 <ul>
-
+ 
+<li>Zezhi Shao, Tangwen Qian, Tao Sun, <b>Fei Wang*</b>, Yongjun Xu*. <a target='new' href='https://www.sciencedirect.com/science/article/pii/S2666675824002017'>“Spatial-temporal large models: A super hub linking multiple scientific areas with artificial intelligence”</a>, <i>The Innovation</i>, Accepted, 100763, Dec. 2024. </li>
+ 
 <li>Yongjun Xu*, <b>Fei Wang*</b>, Tangtang Zhang*. <a target='new' href='http://finleywang.github.io/files/2024_Innovation_AI is reconstructing a new world.pdf'>“Artificial intelligence is restructuring a new world”</a>, <i>The Innovation</i>, Vol.05, No.06, 100725, Nov. 2024. </li>
 
 <li>Zezhi Shao, <b>Fei Wang*</b>, Yongjun Xu*, Wei Wei, Chengqing Yu, Zhao Zhang, Di Yao, Tao Sun, Guangyin Jin, Xin Cao, Gao Cong, Christian S Jensen, Xueqi Cheng*, <a target='new' href='http://finleywang.github.io/files/2024_TKDE_BasicTS.pdf'>“Exploring progress in multivariate time series forecasting: Comprehensive benchmarking and heterogeneity analysis”</a>, <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, doi: 10.1109/TKDE.2024.3484454, Oct. 2024. (Regular Paper)</li>
