@@ -30,9 +30,9 @@ IN YEAR 2023
  
 <li><b>Fei Wang*</b>, Di Yao, Yong Li, Tao Sun, Zhao Zhang. <a target='new' href='http://finleywang.github.io/files/2022_Innovation_AI urban computing.pdf'>“AI-enhanced spatial-temporal data-mining technology: New chance for next-generation urban computing”</a>, <i>The Innovation,</i> Vol.04, No.02, 100405, Mar. 2023.    </li>
 
-<li>Chengqing Yu, <b>Fei Wang*</b>, Zezhi Shao, Tao Sun, Lin Wu, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_CIKM_DSFormer.pdf'>“DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction”, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, pp.3062-3072, Birmingham, United Kingdom, Oct.21-25, 2023. </li>
+<li>Chengqing Yu, <b>Fei Wang*</b>, Zezhi Shao, Tao Sun, Lin Wu, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_CIKM_DSFormer.pdf'>“DSformer: A Double Sampling Transformer for Multivariate Time Series Long-term Prediction”</a>, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, pp.3062-3072, Birmingham, United Kingdom, Oct.21-25, 2023. </li>
 
-<li>Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, Zhulin An*, <b>Fei Wang</b>, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_SIGIR.pdf'>“Weighted Knowledge Graph Embedding”, <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, pp. 867-877, Taipei, Taiwan, Jul.23-27, USA, 2023. </li>
+<li>Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, Zhulin An*, <b>Fei Wang</b>, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_SIGIR.pdf'>“Weighted Knowledge Graph Embedding”</a>, <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, pp. 867-877, Taipei, Taiwan, Jul.23-27, USA, 2023. </li>
 
 </ul>
 
