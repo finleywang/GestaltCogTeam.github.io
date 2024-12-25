@@ -59,7 +59,7 @@ IN YEAR 2022
 
 <li>Shuo Liang, Wei Wei*, Xian-Ling Mao, <b>Fei Wang</b>, Zhiyong He. <a target='new' href='http://finleywang.github.io/files/2022_findings-acl_BiSyn-GAT+.pdf'>“BiSyn-GAT+: Bi-syntax aware graph attention network for aspect-based sentiment analysis”</a>, <i>Findings of the Association for Computational Linguistics: ACL 2022 (ACL Findings)</i>, pp. 1835-1848, Dublin, Ireland, May 22-27, 2022. </li>
 
-<li>Tao Sun, <b>Fei Wang</b>, Zhao Zhang, Lin Wu, and Yongjun Xu*. <a target='new' href='[http://finleywang.github.io/files/2022_DASFAA_Trajectory Representation Learning.pdf](http://finleywang.github.io/files/2022_DASFAA_Trajectory)'>“Human Mobility Identification by Deep Behavior Relevant Location Representation”</a>, In <i>Database Systems for Advanced Applications (DASFAA)</i>, pp. 439–454, Berlin, Heidelberg, Apr.11-14, 2022. </li>
+<li>Tao Sun, <b>Fei Wang</b>, Zhao Zhang, Lin Wu, and Yongjun Xu*. <a target='new' href='http://finleywang.github.io/files/2022_DASFAA_Trajectory Representation Learning.pdf'>“Human Mobility Identification by Deep Behavior Relevant Location Representation”</a>, In <i>Database Systems for Advanced Applications (DASFAA)</i>, pp. 439–454, Berlin, Heidelberg, Apr.11-14, 2022. </li>
 
 </ul>
 
