@@ -5,6 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+IN YEAR 2025
+------
+
+<ul>
+
+<li>Yujie Li, Tao Sun, Zezhi Shao, Yiqiang Zhen, Yongjun Xu, <b>Fei Wang*</b>. <a target='new' href='[http://finleywang.github.io/files/2025_PR_Trajectory-User Linking via Multi-Scale Graph Attention Network.pdf](http://finleywang.github.io/files/2025_PR_Trajectory-User)'>“Trajectory-User Linking via Multi-Scale Graph Attention Network”</a>, <i>Pattern Recognition</i>, Vol.158, 110978, Feb. 2025.  </li>
+
+<li>Chengqing Yu, <b>Fei Wang*</b>, Yilun Wang, Zezhi Shao, Tao Sun, Di Yao, Yongjun Xu*. <a target='new' href='[http://finleywang.github.io/files/2025_Information Fusion_MGSFformer.pdf](http://finleywang.github.io/files/2025_Information)'>“MGSFformer: A Multi-Granularity Spatiotemporal Fusion Transformer for air quality prediction”</a>, <i>Information Fusion</i>, Vol. 113, 102607, Jan. 2025. </li>
+
+</ul>
+
+
 IN YEAR 2024
 ------
 <ul>
