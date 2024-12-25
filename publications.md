@@ -82,5 +82,6 @@ IN YEAR 2022
 
 <li>Tao Sun, <b>Fei Wang</b>, Zhao Zhang, Lin Wu, and Yongjun Xu*. <a target='new' href='http://finleywang.github.io/files/2022_DASFAA_Trajectory Representation Learning.pdf'>“Human Mobility Identification by Deep Behavior Relevant Location Representation”</a>, In <i>Database Systems for Advanced Applications (DASFAA)</i>, pp. 439–454, Berlin, Heidelberg, Apr.11-14, 2022. </li>
 
+<li>Yubo Liang, Zezhi Shao, <b>Fei Wang*</b>, Zhao Zhang, Tao Sun, Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_Bench_BasicTS An Open Source Fair Multivariate Time Series Prediction Benchmark.pdf'>“BasicTS: an open source fair multivariate time series prediction benchmark”</a>, <i>International Symposium on Benchmarking, Measuring and Optimization (Bench)</i>，pp.87-101, Nov.07-09, 2022. </li>
 </ul>
 
