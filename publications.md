@@ -17,7 +17,7 @@ IN YEAR 2024
 IN YEAR 2023
 ------
 <ul>
-<li><b>Fei Wang*</b>, Di Yao, Yong Li, Tao Sun, Zhao Zhang. <a target='new' href='http://finleywang.github.io/files/2022_Innovation_AI urban computing.pdf'>“AI-enhanced spatial-temporal data-mining technology: New chance for next-generation urban computing”, <i>The Innovation,</i> Vol.04, No.02, 100405, Mar. 2023.    </li>
+<li><b>Fei Wang*</b>, Di Yao, Yong Li, Tao Sun, Zhao Zhang. <a target='new' href='http://finleywang.github.io/files/2022_Innovation_AI urban computing.pdf'>“AI-enhanced spatial-temporal data-mining technology: New chance for next-generation urban computing”</a>, <i>The Innovation,</i> Vol.04, No.02, 100405, Mar. 2023.    </li>
 </ul>
 
 
