@@ -15,11 +15,17 @@ My major research interests are in Spatial-temporal Data Mining, Time Series Ana
 
 News
 ------
+* 2024/12/12 One commentary about Spatial-Temporal Large Models for Science is accepted by The Innovation, congrats to Zezhi!
+* 2024/12/10 Two papers are accepted by AAAI, congrats to all!
+* 2024/11/04 One editoral about AI impact on world is published on The Innovation, congrats to all!
 * 2024/10/16 One paper about [BasicTS+](https://github.com/GestaltCogTeam/BasicTS) is accepted by TKDE，congrats to Zezhi's longtime effort!
-* 2024/08/22 One high-quality review on the theme of "AI for Geoscience," with Dr. Fei Wang as a co-first author, is published by
- [The Innovation](https://www.cell.com/the-innovation/home)
-* 2024/07/05 Dr. Fei Wang is awarded the Best Paper Award by [The Innovation](https://www.cell.com/the-innovation/home)!
-* 2023/12/01 One paper about trajectory domain generalization is accepted by ICDE, congrats to Tangwen!
+* 2024/08/22 One high-quality review on the theme of "AI for Geoscience," with Dr. Fei Wang as a co-first author, is published by The Innovation, congrats to all!
+* 2024/07/28 One paper about Multi-Granularity Spatiotemporal Fusion Transformer is accepted by Information Fusion, congrats to Chengqing!
+* 2024/07/05 Dr. Fei Wang is awarded the Best Paper Award by The Innovation!
+* 2024/05/17 One paper about MTS Forecasting suitable for Variable Missing is accpeted by KDD, congrats to Chengqing！
+* 2024/02/20 One paper about Self-Improvement Programming for TKGQA is accepted by LREC-COLING, congrats to Zhuo！
+* 2024/12/15 One paper about Dynamic Frequency Domain Graph Convolutional Network is accepted by ICASSP, congrats to Yujie! 
+* 2023/12/01 One paper about Trajectory Domain Generalization is accepted by ICDE, congrats to Tangwen!
 
 Hornors and Awards
 ------
