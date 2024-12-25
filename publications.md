@@ -40,6 +40,11 @@ IN YEAR 2023
 
 <li>Zhao Zhang, Zhanpeng Guan, Fuwei Zhang, Fuzhen Zhuang*, Zhulin An*, <b>Fei Wang</b>, and Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2023_SIGIR.pdf'>“Weighted Knowledge Graph Embedding”</a>, <i>International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, pp. 867-877, Taipei, Taiwan, Jul.23-27, USA, 2023. </li>
 
+<li>Yuan Wang, Zezhi Shao, Tao Sun, Chengqing Yu, Yongjun Xu, and <b>Fei Wang*</b>. <a target='new' href='http://finleywang.github.io/files/2023_CIKM_Clustering.pdf'>“Clustering-property Matters: A Cluster-aware Network for Large Scale Multivariate Time Series Forecasting”</a>, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, pp.4340-4344, Birmingham, United Kingdom, Oct.21-25, 2023. </li>
+
+<li>Qing Wang, Cong Dong, Shijie Jian, Dan Du, Zhigang Lu, Yinhao Qi, Dongxu Han, Xiaobo Ma, <b>Fei Wang</b>, Yuling Liu. <a target='new' href='http://finleywang.github.io/files/2023_Computer&Security.pdf'>“HANDOM: Heterogeneous attention network model for malicious domain detection”</a>, <i>Computers & Security</i>, Vol.125, 103059, Feb. 2023.</li>
+
+<li>Yongjun Xu, <b>Fei Wang</b>, Zhulin An, Qi Wang, Zhao Zhang*. <a target='new' href='[http://finleywang.github.io/files/2023_Innovation_AI for Science.pdf](http://finleywang.github.io/files/2023_Innovation_AI)'>“Artificial intelligence for science—bridging data to wisdom”</a>, <i>The Innovation</i>, Vol.04, No.06, 100525, Nov. 2023. </li>
 </ul>
 
 
