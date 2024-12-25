@@ -12,7 +12,7 @@ IN YEAR 2024
 <li>Zezhi Shao, <b>Fei Wang*</b>, Yongjun Xu*, Wei Wei, Chengqing Yu, Zhao Zhang, Di Yao, Tao Sun, Guangyin Jin, Xin Cao, Gao Cong, Christian S Jensen, Xueqi Cheng*, <a target='new' href='http://finleywang.github.io/files/paper1.pdf'>“Exploring progress in multivariate time series forecasting: Comprehensive benchmarking and heterogeneity analysis”</a>, <i>IEEE Transactions on Knowledge and Data Engineering (TKDE)</i>, doi: 10.1109/TKDE.2024.3484454, Oct. 2024. (Regular Paper)</li>
 
 
-<li>Chengqing Yu,<b>Fei Wang*</b>, Zezhi Shao, Tangwen Qian, Zhao Zhang, Wei Wei, Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2024_KDD_GinAR.pdf>“Ginar: An end-to-end multivariate time series forecasting model suitable for variable missing”</a>, <i>ACM SIGKDD conference on knowledge discovery and data mining（KDD）</i>, pp.3989-4000, Barcelona, Spain, Aug.25-29, 2024. </li>
+<li>Chengqing Yu,<b>Fei Wang*</b>, Zezhi Shao, Tangwen Qian, Zhao Zhang, Wei Wei, Yongjun Xu. <a target='new' href='http://finleywang.github.io/files/2024_KDD_GinAR.pdf'>“Ginar: An end-to-end multivariate time series forecasting model suitable for variable missing”</a>, <i>ACM SIGKDD conference on knowledge discovery and data mining（KDD）</i>, pp.3989-4000, Barcelona, Spain, Aug.25-29, 2024. </li>
  </ul>
 
 IN YEAR 2023
