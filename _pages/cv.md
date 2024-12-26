@@ -20,9 +20,9 @@ Work experience
 * Fall 2020: Associate Researcher
   * Institute of Computing Technology, Chinese Academy of Sciences
   * Duties included: Leading a research team focusing on spatial temporal data mining theory and technology.
-  * Supervisor: Yongjun Xu
+  * Supervisor: Prof. Yongjun Xu, Prof. Xueqi Cheng
 
 * Summer 2017: Assistant Researcher
   * Institute of Computing Technology, Chinese Academy of Sciences
   * Duties included: focusing on spatial temporal data mining theory and technology
-
+  * Supervisor: Prof. Yongjun Xu
