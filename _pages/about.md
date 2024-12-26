@@ -39,11 +39,10 @@ Academic Services
 ------
 * Publicity Chair: [WebST 2025](https://webst2025.netlify.app/organizer)
 * PC Member: AAAI 2022, AAAI 2023, AAAI 2024
-
+* Reviewer：IEEE TPAMI, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, ESWA, Knowledge-Based Systems, Neural Networks
 
 <!--<a href="https://clustrmaps.com/site/17p9b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_x7tqyOr885brXGvZjrsKqXa4MFwSfmlCNrM9Pdv_q4&cl=ffffff" /></a>-->
    
-
 <br>
 
 <!--<a href="https://clustrmaps.com/site/1c3fi"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI&cl=ffffff" /></a>-->
