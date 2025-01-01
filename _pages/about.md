@@ -47,7 +47,7 @@ Academic Services
 <br>
 
 <!--<a href="https://clustrmaps.com/site/1c3fi"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI&cl=ffffff" /></a>-->
-<div style=" width:400px; height:400px;"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI"></script></div>
+<div style=" width:300px; height:300px;"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=DHwDGXrEWOK3pCKP8r-i6-blHzFOinsxqTdOfoVY7lI"></script></div>
 
 <br>
 
