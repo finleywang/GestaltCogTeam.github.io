@@ -21,6 +21,8 @@ IN YEAR 2025
 IN YEAR 2024
 ------
 <ul>
+
+<li>✨Siheng Chen*, Yiyi Liao*, <b>Fei Wang*</b>, Gang Wang*, Liang Wang*, Yafei Wang*, Xichan Zhu*. <a target='new' href='https://www.sciencedirect.com/science/article/pii/S2666675824002182'>“Toward the robustness of autonomous vehicles in the AI era”</a>, <i>The Innovation</i>, Accepted, 100780, Dec. 2024. </li>
  
 <li>✨Zezhi Shao, Tangwen Qian, Tao Sun, <b>Fei Wang*</b>, Yongjun Xu*. <a target='new' href='https://www.sciencedirect.com/science/article/pii/S2666675824002017'>“Spatial-temporal large models: A super hub linking multiple scientific areas with artificial intelligence”</a>, <i>The Innovation</i>, Accepted, 100763, Dec. 2024. </li>
  
