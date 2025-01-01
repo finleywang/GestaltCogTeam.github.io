@@ -15,7 +15,7 @@ My major research interests are in Spatial-temporal Data Mining, Time Series Ana
 
 News
 ------
-* 2024/12/12 One commentary about AI in autonomous vehicles is accepted by <b>The Innovation</b>, congrats to all!
+* 2024/12/26 One commentary about AI in autonomous vehicles is accepted by <b>The Innovation</b>, congrats to all!
 * 2024/12/12 One commentary about Spatial-Temporal Large Models for Science is accepted by <b>The Innovation</b>, congrats to Zezhi!
 * 2024/12/10 Two papers are accepted by <b>AAAI</b>, congrats to all!
 * 2024/11/04 One editoral about AI impact on world is published on <b>The Innovation</b>, congrats to all!
