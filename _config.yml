@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Fei Wang"
+title                    : "Fei Wang's Personal Website"
 title_separator          : "-"
 name                     : &name "Fei Wang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile-wf.jpg"
   name             : "Fei Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Researcher"
+  bio              : "Associate Researcher, Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing，China"
   employer         : "ICT, CAS"
   uri              : # URL
