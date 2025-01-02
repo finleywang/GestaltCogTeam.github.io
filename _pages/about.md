@@ -11,7 +11,7 @@ redirect_from:
 I am now an associate researcher at the [Institute of Computing Technology (ICT)](http://www.ict.cas.cn/), Chinese Academy of Sciences (CAS). 
 Before that, I received my PhD degree from the ICT，CAS under the supervision of [Prof. Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html) in July 2017. 
 
-My current research focus is on <b>scale-adaptive unsupervised spatio-temporal data (ST data) learning</b>, with a primary emphasis on cross-domain distribution characteristic analysis of ST data, representative ST data synthesis, fair and scalable benchmark for ST models, architectural innovation of high-efficiency ST models, ST foundational models, and the application of related foundational theories to technological and systemic innovations in diverse scientific and industrial fields.
+My major research interests are in Spatio-temporal Data Mining, Time Series Analysis, and AI for Science. My current research focus is on <b>scale-adaptive unsupervised spatio-temporal data (ST data) learning</b>, with a primary emphasis on cross-domain distribution characteristic analysis of ST data, representative ST data synthesis, fair and scalable benchmark for ST models, architectural innovation of high-efficiency ST models, ST foundational models, and the application of related foundational theories to technological and systemic innovations in diverse scientific and industrial fields.
 
 
 News
