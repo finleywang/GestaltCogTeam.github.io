@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me: Fei Wang 王飞"
+title: "Fei Wang 王飞"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
