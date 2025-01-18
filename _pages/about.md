@@ -16,6 +16,7 @@ My major research interests are in Spatio-temporal Data Mining, Time Series Anal
 
 News
 ------
+* 2025/01/19 One amazing review about MetaCity is accepted by <b>The Innovation</b>, congrats to all!
 * 2024/12/26 One commentary about AI in autonomous vehicles is accepted by <b>The Innovation</b>, congrats to all!
 * 2024/12/12 One commentary about Spatial-Temporal Large Models for Science is accepted by <b>The Innovation</b>, congrats to Zezhi!
 * 2024/12/10 Two papers are accepted by <b>AAAI</b>, congrats to all!
