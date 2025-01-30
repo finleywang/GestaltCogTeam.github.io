@@ -34,14 +34,17 @@ Hornors and Awards
 ------
 * 2024, [The Innovation](https://www.cell.com/the-innovation/home) Best Paper Award
 * 2024, Most Liked Poster Award, Research Summit of Urban Sciences and Human Dynamics
+* 2024, Most Influential CIKM 2022 Papers #1 (2024-09 ranked by PaperDigest)
+* 2024, Most Influential CIKM 2023 Papers #5 (2024-09 ranked by PaperDigest)
+* 2024, Most Influential KDD 2022 Papers #4 (2024-09 ranked by PaperDigest)
 * 2022, Youth Innovation Promotion Association of CAS
-* 2022，DASFAA Best Student Paper (DASFAA 2022)
+* 2022, DASFAA Best Student Paper (DASFAA 2022)
 
 
 Academic Services
 ------
 * Publicity Chair: [WebST 2025](https://webst2025.netlify.app/organizer)
-* PC Member: AAAI 2022, AAAI 2023, AAAI 2024
+* PC Member: KDD 2024, AAAI 2022, AAAI 2023, AAAI 2024
 * Reviewer：IEEE TPAMI, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, ESWA, Knowledge-Based Systems, Neural Networks
 
 <!--<a href="https://clustrmaps.com/site/17p9b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_x7tqyOr885brXGvZjrsKqXa4MFwSfmlCNrM9Pdv_q4&cl=ffffff" /></a>-->
