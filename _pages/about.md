@@ -16,6 +16,7 @@ My major research interests are in Spatio-temporal Data Mining, Time Series Anal
 
 News
 ------
+* 2025/02/26 Dr. Fei Wang is selected as Youth Editor of The Innovation!
 * 2025/01/19 One amazing review about MetaCity is accepted by <b>The Innovation</b>, congrats to all!
 * 2024/12/26 One commentary about AI in autonomous vehicles is accepted by <b>The Innovation</b>, congrats to all!
 * 2024/12/12 One commentary about Spatial-Temporal Large Models for Science is accepted by <b>The Innovation</b>, congrats to Zezhi!
@@ -44,8 +45,8 @@ Hornors and Awards
 Academic Services
 ------
 * Publicity Chair: [WebST 2025](https://webst2025.netlify.app/organizer)
-* PC Member: KDD 2024, AAAI 2022, AAAI 2023, AAAI 2024
-* Reviewer：IEEE TPAMI, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, ESWA, Knowledge-Based Systems, Neural Networks
+* PC Member: IJCAI 2025, KDD 2025, KDD 2024, AAAI 2022, AAAI 2023, AAAI 2024
+* Reviewer：IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, ESWA, Knowledge-Based Systems, Neural Networks
 
 <!--<a href="https://clustrmaps.com/site/17p9b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_x7tqyOr885brXGvZjrsKqXa4MFwSfmlCNrM9Pdv_q4&cl=ffffff" /></a>-->
    
