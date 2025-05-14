@@ -16,6 +16,7 @@ My major research interests are in Spatio-temporal Data Mining, Time Series Anal
 
 News
 ------
+* 2025/05/08 One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, congrats to all!
 * 2025/05/01 One paper is accepted by <b>ICML</b>，congrats to all!
 * 2025/04/29 One paper is accepted by <b>TKDE</b>，congrats to all!
 * 2025/02/26 Dr. Fei Wang is selected as Youth Editor of The Innovation!
