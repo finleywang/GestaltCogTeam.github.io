@@ -11,11 +11,19 @@ redirect_from:
 I am now an associate researcher at the [Institute of Computing Technology (ICT)](http://www.ict.cas.cn/), Chinese Academy of Sciences (CAS). 
 Before that, I received my PhD degree from the ICT，CAS under the supervision of [Prof. Yongjun Xu](https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496751.html) in July 2017. 
 
-My major research interests are in Spatio-temporal Data Mining, Time Series Analysis, and AI for Science. My current research focus is on <b>scale-adaptive unsupervised spatio-temporal data (ST data) learning</b>, with a primary emphasis on cross-domain distribution characteristic analysis of ST data, representative ST data synthesis, fair and scalable benchmark for ST models, architectural innovation of high-efficiency ST models, ST foundational models, and the application of related foundational theories to technological and systemic innovations in diverse scientific and industrial fields.
+My major research interests are in Spatio-temporal Data Mining, Time Series Analysis, and AI for Science. My current research focus is on <b>scale-adaptive unsupervised spatio-temporal data (ST data) learning</b>, include：
+
+* Cross-domain distribution characteristic analysis of ST data
+* ST data synthesis
+* Fair and scalable benchmark for ST models
+* Architectural innovation of high-efficiency ST models
+* Foundationa models based on ST data
+* ST model application in diverse scientific and industrial fields
 
 
 News
 ------
+* 2025/05/15 Two papers, BLAST and Merlin, are accepted by <b>KDD</b>, congrats to Zezhi and Chengqing!
 * 2025/05/08 One amazing review about Decision Intelligence is accepted by <b>The Innovation</b>, congrats to all!
 * 2025/05/01 One paper is accepted by <b>ICML</b>，congrats to all!
 * 2025/04/29 One paper is accepted by <b>TKDE</b>，congrats to all!
@@ -48,7 +56,7 @@ Hornors and Awards
 Academic Services
 ------
 * Publicity Chair: [WebST 2025](https://webst2025.netlify.app/organizer)
-* PC Member: MM 2025，IJCAI 2025, KDD 2025, KDD 2024, AAAI 2022, AAAI 2023, AAAI 2024
+* PC Member: Neurips 2025, MM 2025, IJCAI 2025, KDD 2025, KDD 2024, AAAI 2022, AAAI 2023, AAAI 2024
 * Reviewer：IEEE TPAMI, IEEE TKDD, IEEE TKDE, IEEE TVT, The Innovation, Information Fusion, Pattern Recognition, ESWA, Knowledge-Based Systems, Neural Networks
 
 <!--<a href="https://clustrmaps.com/site/17p9b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_x7tqyOr885brXGvZjrsKqXa4MFwSfmlCNrM9Pdv_q4&cl=ffffff" /></a>-->
