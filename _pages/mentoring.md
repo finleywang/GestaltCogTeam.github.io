@@ -14,6 +14,9 @@ Graduate
 <li>Jikai Wang, now in Netease 网易</li>
 <li>Yubo Liang，now in Taobao 淘宝</li>
 <li>Yuan Wang, now in Xiaohongshu 小红书</li>
+<li>Junhe Li, now in Kwai 快手</li>
+<li>Xukai Gu, now in Taobao 淘宝</li>
+<li>Liwe Liang, now in KINGDEE 金蝶</li>
 
 Undergraduate
 ------
